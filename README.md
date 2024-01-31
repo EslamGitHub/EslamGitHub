@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EslamTM
 - 👀 I’m interested in QA Testing & Automation
-- 🌱 I’m currently learning some RPA tools like TagUI, Automation Anywhere
+- 🌱 I’m currently learning some RPA tools like TagUI, UiPath & Automation Anywhere
 - 📫 You can reach me via mr.eslam [at] gmail [dot] com
 
 <!---
